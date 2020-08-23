@@ -6,15 +6,15 @@
 
 [Banking Transactions](https://github.com/gretaisafantasy/C_Banking_Transactions/)
 
-### 
+### Java
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shape](https://github.com/gretaisafantasy/Java_Shape)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Python
+
+[Lines](https://github.com/gretaisafantasy/Python_Lines)
+
+[Company](https://github.com/gretaisafantasy/Python_Company)
 
 ---
 
@@ -27,10 +27,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
