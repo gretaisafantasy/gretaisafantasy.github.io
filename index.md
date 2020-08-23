@@ -4,8 +4,7 @@
 
 ### C
 
-[Banking Transactions](/sample_page)
-<https://github.com/gretaisafantasy/C_Banking_Transactions/>
+[Banking Transactions](https://github.com/gretaisafantasy/C_Banking_Transactions/)
 
 ### 
 
