@@ -4,8 +4,7 @@
 
 ### C
 
-- [Banking Transactions](https://github.com/gretaisafantasy/C_Banking_Transactions/)
-<br>
+- [Banking Transactions](https://github.com/gretaisafantasy/C_Banking_Transactions/)<br>
 This program calculates the ending/closing balance of banking transactions.
 
 ### Java
