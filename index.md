@@ -10,7 +10,7 @@ This program calculates the ending/closing balance of banking transactions.
 ### Java
 
 - [Shape](https://github.com/gretaisafantasy/Java_Shape)<br>
-This program sort the list of shapes into ascending order by area.
+This program sorts the list of shapes into ascending order by area.
 
 ### Python
 
