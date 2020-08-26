@@ -7,6 +7,11 @@
 - [Banking Transactions](https://github.com/gretaisafantasy/C_Banking_Transactions/)<br>
 This program calculates the ending/closing balance of banking transactions.
 
+### HTML and JavaScript
+
+- [Gross Pay Calculator](https://github.com/gretaisafantasy/HTML_JavaScript_Gross_Pay_Calculator)<br>
+A gross pay calculator form that calculates the gross pay of employees.
+
 ### Java
 
 - [Shape](https://github.com/gretaisafantasy/Java_Shape)<br>
